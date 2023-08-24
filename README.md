@@ -1,2 +1,2 @@
 # elmium
-This repo contains scripts for tutorials on my YouTube channel (youtube.com/@elmium)
+This repo contains scripts for tutorials on my [YouTube channel (ELMIUM)](https://www.youtube.com/@elmium)
